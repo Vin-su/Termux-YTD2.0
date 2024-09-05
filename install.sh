@@ -22,7 +22,7 @@ echo -e "\e[034m"  "Installing yt-dlp\n"
 pip install yt-dlp
 
 echo -e "\e[032m"  "Making the Youtube Directory to download the Vidoes\n"
-mkdir ~/storage/shared/Youtube
+mkdir ~/storage/Youtube
 
 
 echo -e "Creating bin folder\n"
