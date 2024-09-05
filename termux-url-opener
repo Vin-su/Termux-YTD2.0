@@ -20,18 +20,7 @@ else
 fi
 
 
-echo -e "\e[031m" " ▄ █   ▄▀▀▀▀▀▄   █ ▄   == Termux-YTD 2.0 ="
-echo -e "\e[031m" "▄▄▀▄   █─▀─▀─█  ▄▀▄▄   With Enhanced Speed"
-echo -e "\e[031m" "     ▀▄▒▒▒▒▒▒▒▒▒▄▀    --------------------"
-echo -e "\e[031m" "     █────▀────█       Check out my Github"
-echo -e "\e[031m" "     █────▀────█       For More info...   "
-echo -e "\e[036m" "╔════════════════════════════════════════╗"                                                                          
-echo -e "\e[032m" "║ ♚ Project Name : 🆃🅴🆁🅼🆄🆇-🆈🆃🅳 2.0™        ║"
-echo -e "\e[032m" "║ ♚ Author : KhanSaad1275                ║"
-echo -e "\e[032m" "║ ♚ Github : g̲i̲t̲h̲u̲b̲.̲c̲o̲m̲/̲k̲h̲a̲n̲s̲a̲a̲d̲1̲2̲7̲5̲/̲    ║"
-echo -e "\e[032m" "║ ♚ Website : www.LearnTermux.tech       ║"
-echo -e "\e[036m" "╠════════════════════════════════════════╝"
-echo -e "\e[036m" "╠═▶ [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁]  ➳"
+echo -e "\e[036m" "╠═▶ [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁] 
 echo -e "\e[032m" "╠═▶ 1. Music Mp3♫"
 echo -e "\e[032m" "╠═▶ 2. Video 360p"
 echo -e "\e[032m" "╠═▶ 3. Video 480p"
